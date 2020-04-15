@@ -1,5 +1,5 @@
 {
-  "name": "react-native-demo",
+  "name": "react-native-ci-test",
   "version": "1.0.0",
   "scripts": {
     "android": "react-native run-android",
